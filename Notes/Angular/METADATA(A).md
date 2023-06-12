@@ -1,0 +1,1 @@
+- Metadata tells Angular how to process a class. It is used to [[DECORATOR]] the class so that it can configure the expected behavior of a class.

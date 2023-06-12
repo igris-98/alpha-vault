@@ -1,0 +1,29 @@
+# [[Applying JavaScript to HTML]]
+# [[Data Types JS]]
+# [[NAMING CONVENTION JS]]
+# [[OPERATOR JS]]
+# [[EQUALITY OPERATOR JS]]
+# [[STRING AND TEMPLATE LITERAL JS]]
+# [[CONDITIONAL STATEMENT JS]]
+# [[TRUTHY AND FALSY VALUES JS]]
+# [[LOOP STATEMENT JS]]
+# [[STATEMENT AND EXPRESSION JS]]
+# [[UNDEFINED NULL NaN]]
+# [[TYPEOF OPERATOR JS]]
+# [[FUNCTION BASIC JS]]
+# [[CLOSURE JS]]
+# [[STRICT MODE]]
+# [[WEB APIS]]
+# [[SHALLOW COPY AND DEEP COPY]]
+# [[ARRAY JS]]
+# [[OBJECT ORIENTED JS]]
+# [[SCOPE , SCOPE CHAIN AND LEXICAL ENVIROMENT]]
+# [[JS Engine]]
+# [[VARIABLE DECLARATION]]
+# [[BLOCK AND SHADOWING]]
+# [[CALL STACK AND HEAP]]
+
+
+#NOTE 
+## We should use arrays for more order data. And objects for more unstructured data.
+## Shortest JS program is empty file.

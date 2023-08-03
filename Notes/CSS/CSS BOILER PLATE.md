@@ -1,8 +1,12 @@
 ```css
-* {
+:root {
+	box-sizing: border-box;
+}
+
+*, ::after, ::before {
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
+	box-sizing: inherit;
 }
 
 html,body {
@@ -23,8 +27,6 @@ class_name {
 	transform: translate(-50%, -50%);
 }
 ```
-
-
 
 
 

@@ -2,3 +2,4 @@
 - stimuli
 - impostor
 - preceded
+- conjunction : Things occurring at the same point in time or space.

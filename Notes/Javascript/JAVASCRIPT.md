@@ -22,7 +22,10 @@
 # [[VARIABLE DECLARATION]]
 # [[BLOCK AND SHADOWING]]
 # [[CALL STACK AND HEAP]]
-
+# [[THIS KEYWORD JS]]
+# [[OPTIONAL CHAINING]]
+# [[SETS]]
+# [[MAPS]]
 
 #NOTE 
 ## We should use arrays for more order data. And objects for more unstructured data.

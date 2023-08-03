@@ -412,3 +412,169 @@ console.log(greet.message); // Output: Welcome!
 In this example, the `greet` function is given a `message` property, which can be accessed just like any other object property.
 
 The fact that functions are treated as first-class objects in JavaScript enables powerful programming techniques such as passing functions as arguments, returning functions, and dynamically creating functions. This flexibility contributes to the expressive and functional nature of JavaScript as a language.``
+
+
+# Function Default Parameter: 
+```javascript
+const bookings = []
+// #NOTE 
+// parameter must be in order to work the price parameter expression.
+const createBooking = function(flightNum, numPassengers = 1, price = 199 * numPassengers) {
+	booking = {
+		flightNum,
+		numPassengers,
+		price
+	}
+	console.log(booking);
+	bookings.push(booking);
+}
+createBooking("ABC123"); // flightNum = ABC123 , numPassengers = 1 , price = 199
+createBooking("ABC123", 3); // flightNum = ABC123, numPassengers = 3 , price = 597
+createBooking("ABC123", 10, 2999); // flightNum = ABC123, numPassengers = 10 , price = 2999
+createBooking("ABC123", undefined, 2999); // flightNum = ABC123, numPassengers = 1 , price = 2999
+createBooking("ABC123", null, 2999); // flightNum = ABC123, numPassengers = null , price = 2999
+```
+
+# First Class v/s Higher-Order Functions :
+First-Class Functions:
+First-class functions refer to the capability of a programming language to treat functions as first-class citizens. In a language with first-class functions, functions can be assigned to variables, passed as arguments to other functions, returned from functions, and stored in data structures. Essentially, functions are treated like any other data type. JavaScript is an example of a language that supports first-class functions.
+
+Higher-Order Functions:
+A higher-order function is a function that can take one or more functions as arguments or can return a function as its result. In other words, it operates on functions, either by accepting them as arguments or by returning them. Higher-order functions are a concept that builds on the idea of first-class functions.
+
+Here's an example to illustrate the difference between first-class functions and higher-order functions:
+
+```javascript
+// First-class functions
+function sayHello(name) {
+  console.log("Hello, " + name + "!");
+}
+
+const greet = sayHello; // Assigning a function to a variable
+greet("John"); // Calling the function through the variable
+
+// Higher-order function
+function higherOrderFunction(callback) {
+  console.log("Inside the higher-order function");
+  callback("Sarah"); // Calling the callback function passed as an argument
+}
+
+higherOrderFunction(sayHello); // Passing a function as an argument
+```
+
+In this example, `sayHello` is a function that prints a greeting to the console. It is assigned to the variable `greet` and called through the variable. This demonstrates the first-class nature of functions in JavaScript.
+
+The `higherOrderFunction` is a higher-order function that takes a callback function as an argument. It logs a message and then invokes the callback function, passing it the name "Sarah." The `sayHello` function is passed as an argument to the `higherOrderFunction`, showcasing the concept of a higher-order function.
+
+To summarize, first-class functions refer to the ability to treat functions as values, while higher-order functions are functions that operate on other functions by either accepting them as arguments or returning them. First-class functions provide the foundation for higher-order functions.
+
+
+
+# Call and Apply Method : 
+In JavaScript, the `call()` and `apply()` methods are used to invoke a function and specify the value of `this` inside the function, along with passing arguments to the function. They allow you to explicitly set the `this` value and provide arguments to a function, even if the function is not defined as a method of an object. Here's how they work:
+
+1. **`call()` method:**
+The `call()` method is used to invoke a function with a specified `this` value and individual arguments passed directly as comma-separated values. The syntax for the `call()` method is as follows:
+
+```javascript
+functionName.call(thisValue, arg1, arg2, ...);
+```
+
+- `functionName`: The function to be invoked.
+- `thisValue`: The value to be used as the `this` value inside the function.
+- `arg1`, `arg2`, ...: The arguments to be passed to the function individually.
+
+Here's an example to illustrate the usage of the `call()` method:
+
+```javascript
+function greet() {
+  console.log("Hello, " + this.name + "!");
+}
+
+const person = {
+  name: "John"
+};
+
+greet.call(person); // Output: Hello, John!
+```
+
+In this example, the `greet()` function is defined without any explicit object association. The `call()` method is then used to invoke the `greet()` function with `person` as the `this` value. The function is called in the context of the `person` object, and it accesses the `name` property of `person`.
+
+2. **`apply()` method:**
+The `apply()` method is similar to `call()`, but it accepts an array-like object or an actual array as the second argument to pass arguments to the function. The syntax for the `apply()` method is as follows:
+
+```javascript
+functionName.apply(thisValue, [arg1, arg2, ...]);
+```
+
+- `functionName`: The function to be invoked.
+- `thisValue`: The value to be used as the `this` value inside the function.
+- `[arg1, arg2, ...]`: An array-like object or an array containing the arguments to be passed to the function.
+
+Here's an example to illustrate the usage of the `apply()` method:
+
+```javascript
+function greet() {
+  console.log("Hello, " + this.name + "!");
+}
+
+const person = {
+  name: "John"
+};
+
+const args = ["arg1", "arg2"];
+
+greet.apply(person, args); // Output: Hello, John!
+```
+
+In this example, the `greet()` function is called using the `apply()` method. The `person` object is passed as the `this` value, and an array `args` is provided as the second argument. The elements of the array are passed as individual arguments to the `greet()` function.
+
+Both `call()` and `apply()` methods provide a way to control the `this` value inside a function and pass arguments to it. The main difference between them is how the arguments are passed: `call()` accepts individual arguments, while `apply()` accepts an array-like object or an array of arguments. These methods are commonly used in situations where you need to invoke a function with a specific `this` value or pass arguments dynamically.
+
+
+# Bind Method :
+The `bind()` method in JavaScript is used to create a new function that has a specified `this` value, along with pre-defined arguments. Unlike `call()` and `apply()`, `bind()` does not immediately invoke the function. Instead, it returns a new function with the bound `this` value and arguments, which can be invoked later. Here's how it works:
+
+The syntax for the `bind()` method is as follows:
+
+```javascript
+functionName.bind(thisValue, arg1, arg2, ...);
+```
+
+- `functionName`: The function to be bound.
+- `thisValue`: The value to be used as the `this` value inside the function when the bound function is invoked.
+- `arg1`, `arg2`, ...: Optional arguments that are pre-defined for the bound function.
+
+Here's an example to illustrate the usage of the `bind()` method:
+
+```javascript
+function greet() {
+  console.log("Hello, " + this.name + "!");
+}
+
+const person = {
+  name: "John"
+};
+
+const boundGreet = greet.bind(person);
+
+boundGreet(); // Output: Hello, John!
+```
+
+In this example, the `greet()` function is bound to the `person` object using the `bind()` method. The `bind()` method returns a new function `boundGreet` with the `this` value set to `person`. When `boundGreet()` is invoked, it logs "Hello, John!" to the console.
+
+Additionally, you can also pre-define arguments while using `bind()`. Here's an example:
+
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+
+const multiplyByTwo = multiply.bind(null, 2);
+
+console.log(multiplyByTwo(5)); // Output: 10
+```
+
+In this example, the `multiply()` function is bound to a `null` `this` value, and the first argument is pre-defined as `2`. The `bind()` method creates a new function `multiplyByTwo`, which multiplies any given number by `2`. When `multiplyByTwo(5)` is called, it returns `10`.
+
+The `bind()` method is particularly useful when you want to create a new function with a specific `this` value that can be invoked later or passed as a callback function. It allows you to control the `this` value and pre-define arguments before invoking the function.

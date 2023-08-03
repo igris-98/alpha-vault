@@ -12,3 +12,10 @@
 
 **Highly Cohesive modules reflect better quality of software design.**
 #NOTE A module could be a class or a package or even a microservice. 
+
+
+
+
+
+
+https://www.baeldung.com/cs/cohesion-vs-coupling#:~:text=Simply%20put%2C%20it%20means%20%E2%80%9Cthe,should%20represent%20the%20user%20behavior.

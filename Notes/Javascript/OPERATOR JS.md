@@ -77,6 +77,7 @@ console.log(x === y); // false
 - Logical AND: `&&`  (need more clarification add image or logic of each logic gate for all three)
 - Logical OR: `||`
 - Logical NOT: `!`
+- [[SHORT CIRCUITING]]
 
 Example:
 ```javascript
@@ -211,19 +212,59 @@ console.log(numbers); // [1, 2, <empty>, 4, 5]
 ```
 
 14. Spread Operator: Introduced in ES6, this operator allows you to expand elements of an array or object.
+	- It's work on all [[ITERABLES]] 
+	- We can only use it when building an array or we pass value into a function.
+#NOTE
+### Since ES 2018, the spread operator actually also work on objects even though object are not iterables.
+ 
 
 Example:
 ```javascript
 var arr = [1, 2, 3];
+var arr2 = [4,5,6];
 var newArr = [...arr, 4, 5]; // [1, 2, 3, 4, 5]
 
 var obj = { x: 1, y: 2 };
 var newObj = { ...obj, z: 3 }; // { x: 1, y: 2, z: 3 }
+
+//shallow copy 
+const newShallowArray = [...arr];
+const newObj = { ...obj};
+
+// join arrays
+const joinArray = [...arr, ...arr1];
+
+// passing value into function
+const str = "JAMES";
+consol.log(...str); // log is a function
 ```
 
-These are the remaining operators in JavaScript. They provide additional functionality and flexibility in your code.
+15. rest pattern :
+	The rest pattern is a feature in JavaScript that allows you to extract multiple elements from an array or object and assign them to a single variable. It is denoted by the ellipsis (`...`) syntax and is typically used in function parameters or array destructuring assignments.
 
-
+	```javascript
+	const numbers = [1, 2, 3, 4, 5];
+	
+	const [first, second, ...rest] = numbers;
+	
+	console.log(first);  // Output: 1
+	console.log(second); // Output: 2
+	console.log(rest);   // Output: [3, 4, 5]
+	```
+	
+	```javascript
+	function sum(...numbers) {
+	  let total = 0;
+	  for (let number of numbers) {
+	    total += number;
+	  }
+	  return total;
+	}
+	
+	console.log(sum(1, 2, 3, 4, 5)); // Output: 15
+	```
+	
+	The rest pattern is a handy feature that simplifies working with arrays or function parameters when the number of elements or arguments is variable or unknown. It provides a concise way to handle multiple elements or arguments as a group.
 
 
 

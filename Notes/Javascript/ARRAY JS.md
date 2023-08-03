@@ -42,12 +42,14 @@ Example 2:
 ```javascript
 const nestedArray = [1, [2, 3], 4, 5];
 
-const [a, [b, c], d] = nestedArray;
+const [a, [b, c], d, e , f=9] = nestedArray;
 
 console.log(a); // Output: 1
 console.log(b); // Output: 2
 console.log(c); // Output: 3
 console.log(d); // Output: 4
+console.log(e); // Output: 5
+console.log(f); // Output: 9 //default value assign at the time of destructuring
 
 ```
 
@@ -161,4 +163,30 @@ let evenNumbers = numbers.filter(num => num % 2 === 0);
 console.log(evenNumbers); // Output: [2, 4]
 ```
 
-// TODO reduce(),includes(),entries()
+15. `entries()` : The `entries()` method is a built-in method available for arrays in JavaScript. It returns a new Array Iterator object that contains key-value pairs for each index and corresponding element in the array. The key-value pairs are represented as arrays, where the first element is the index, and the second element is the corresponding element value.
+
+	```javascript
+	const fruits = ['apple', 'banana', 'orange'];
+	
+	const entriesIterator = fruits.entries();
+	
+	console.log(entriesIterator.next().value); // Output: [0, 'apple']
+	console.log(entriesIterator.next().value); // Output: [1, 'banana']
+	console.log(entriesIterator.next().value); // Output: [2, 'orange']
+	```
+		
+	The `entries()` method is often used in conjunction with looping constructs like `for...of` or `Array.from()` to iterate over the key-value pairs in the array:
+	
+	```javascript
+	const fruits = ['apple', 'banana', 'orange'];
+	
+	for (let [index, fruit] of fruits.entries()) {
+	  console.log(`Index: ${index}, Fruit: ${fruit}`);
+	}
+	// Output:
+	// Index: 0, Fruit: apple
+	// Index: 1, Fruit: banana
+	// Index: 2, Fruit: orange
+	```
+	
+// TODO reduce(),includes()

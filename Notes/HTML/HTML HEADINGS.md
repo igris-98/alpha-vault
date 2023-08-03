@@ -12,3 +12,7 @@
 <h5>Heading level 5</h5>
 <h6>Heading level 6</h6>
 ```
+
+
+#NOTE
+- Each and every page should only have one h1 heading.

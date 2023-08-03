@@ -6,6 +6,7 @@
 - CSS is a declarative language that controls how webpages look in the browser.
 - CSS is one of the three core Web Technologies, along with HTML and JavaScript.
 - CSS is a rule-based language.
+- CSS was proposed in 1994 and first implemented by IE3 in 1996.
 
 # Terminology :
 
@@ -69,7 +70,11 @@ color: red !important;
 - These are ""SCOPED"" declaration, which override any declaration applied from your stylesheet or style tag.
 - Inline styles have no selector because they are applied directly to the element they target.
 
+#NOTE 
 ##### To Override inline declaration in your stylesheet , you'll need to add an important to the declaration, shifting it into a higher-priority origin. It's  preferable to do this from within the stylesheet. Because if the inline styles are marked up important, then nothing can override them.
+
+##### An important note about importance If you’re creating a JavaScript module for distribution (such as an NPM package), I strongly urge you not to apply styles inline via JavaScript if it can be avoided. If you do, you’re forcing developers using your package to either accept your styles exactly or use !important for every property they want to change. Instead, include a stylesheet in your package. If your component needs to make style changes dynamically, it’s almost always preferable to use JavaScript to add and remove classes to the elements. Then users can use your stylesheet, and they have the option to edit it however they like without battling specificity.
+
 
 #### Selector Specificity : Different type of selectors also have different specificities 
 -  ID selector has a higher specificity
@@ -213,8 +218,14 @@ h1 {
 
 
 
+#CSS/default-values
 # Defaults values :
 - display : inline;
 - width : auto;
 - color : black;
+- For most browser, the default font-size value is 16px. Technically, it’s the keyword value medium that calculates to 16 px. 
 
+
+#css/root-element
+# Root Element(:root) :
+- The root node is the ancestor of all other elements in the document. It has a special pseudo-class selector (:root) that you can use to target it. This is equivalent to using the type selector html with the specificity of a class rather than a tag.

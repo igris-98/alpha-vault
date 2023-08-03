@@ -21,11 +21,11 @@
 - `<html></html>` : 
 	- This element wraps all content on the page.
 	- It is also knows as root element.
-- `<head></head>` : 
+- `<head></head>` :  #html/head
 	- The [head](https://developer.mozilla.org/en-US/docs/Glossary/Head) of an HTML document is the part that is not displayed in the web browser when the page is loaded.
 	-  It contains information such as the page [`<title>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title), links to [[CSS]], links to custom favicons, and other metadata.
 - `<meta>` :
-	- This element represents [[METADATA(H)]] that cannot be represented by other HTML meta-related elements, like [`<base>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base), [`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link), [`<script>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script), [`<style>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style) or [`<title>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title).
+	- This element represents [[METADATA(HTML)]] that cannot be represented by other HTML meta-related elements, like [`<base>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base), [`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link), [`<script>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script), [`<style>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style) or [`<title>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title).
 - `<title></title>` : 
 	-  This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. 
 	- The page title is also used to describe the page when it is bookmarked.

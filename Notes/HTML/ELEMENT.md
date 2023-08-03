@@ -9,6 +9,7 @@
 - Elements can be nested inside one another to create more complex structures.
 - Elements can also have different types of content, such as text, images, or videos. Depending on the type of content, the element may have different attributes and properties.
 - The [`Element`](https://developer.mozilla.org/en-US/docs/Web/API/Element) interface, representing an element in the DOM.
+- [HTML ELEMENT REFERENCE](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ## Understanding Element : 
 - [[ANATOMY OF ELEMENT]]

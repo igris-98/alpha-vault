@@ -1,4 +1,4 @@
-#note All these are not 
+[[JAVASCRIPT]]
 # Variable Naming :
 - JavaScript variable names are case-sensitive. Lowercase and uppercase letters are distinct.
 	```javascript

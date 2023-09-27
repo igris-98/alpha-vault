@@ -1,5 +1,7 @@
+# [[JavaScript Definition]]
 # [[Applying JavaScript to HTML]]
 # [[Data Types JS]]
+# [[VARIABLE DECLARATION]]
 # [[NAMING CONVENTION JS]]
 # [[OPERATOR JS]]
 # [[EQUALITY OPERATOR JS]]
@@ -19,13 +21,14 @@
 # [[OBJECT ORIENTED JS]]
 # [[SCOPE , SCOPE CHAIN AND LEXICAL ENVIROMENT]]
 # [[JS Engine]]
-# [[VARIABLE DECLARATION]]
 # [[BLOCK AND SHADOWING]]
 # [[CALL STACK AND HEAP]]
 # [[THIS KEYWORD JS]]
 # [[OPTIONAL CHAINING]]
 # [[SETS]]
 # [[MAPS]]
+
+# [[SHORT CIRCUITING]]
 
 #NOTE 
 ## We should use arrays for more order data. And objects for more unstructured data.

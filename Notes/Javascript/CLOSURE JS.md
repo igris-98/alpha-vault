@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 Closure is useful in hiding implementation detail in JavaScript. In other words, it can be useful to create private variables or functions.
 ```javascript
 var counter = (function() {

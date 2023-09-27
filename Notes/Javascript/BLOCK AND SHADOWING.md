@@ -1,3 +1,4 @@
+[[JAVASCRIPT]]
 In JavaScript, a block is a delimited section of code that is surrounded by a pair of curly braces (`{}`) and can contain multiple statements. Blocks are commonly used to group statements together and define the scope of variables.
 
 1. Block Scope:

@@ -1,4 +1,6 @@
-	In JavaScript, values are categorized as either "truthy" or "falsy" based on their inherent boolean evaluation. Although JavaScript has a boolean data type (`true` and `false`), other types can also be evaluated as boolean values in certain contexts. Understanding truthy and falsy values is important when working with conditional statements or evaluating expressions that involve implicit boolean conversion.
+[[JAVASCRIPT]]
+
+In JavaScript, values are categorized as either "truthy" or "falsy" based on their inherent boolean evaluation. Although JavaScript has a boolean data type (`true` and `false`), other types can also be evaluated as boolean values in certain contexts. Understanding truthy and falsy values is important when working with conditional statements or evaluating expressions that involve implicit boolean conversion.
 
 Truthy values: Any value that, when evaluated in a boolean context, is considered true. Here are some examples of truthy values:
 

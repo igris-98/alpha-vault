@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 In JavaScript, "maps" refer to the `Map` object, which is a built-in data structure introduced in ECMAScript 2015 (ES6). **A `Map` is used to store key-value pairs, where the keys and values can be of any type.** It provides an efficient way to store and retrieve data based on the keys.
 
 MAPs are also Iterables.

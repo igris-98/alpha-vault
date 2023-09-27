@@ -1,6 +1,9 @@
+[[JAVASCRIPT]]
+
 In JavaScript, shallow copy and deep copy are two approaches used to create copies of objects or arrays. The main difference between them lies in how they handle nested objects or arrays within the original object or array being copied.
 
-1. Shallow Copy:
+#javascript/shallow-copy 
+# Shallow Copy:
 A shallow copy creates a new object or array and copies the references of the nested objects or arrays. In other words, the top-level structure is duplicated, but the nested objects or arrays are still shared between the original and the copied version.
 
 Here's an example of shallow copy:
@@ -18,7 +21,8 @@ console.log(shallowCopy);     // Output: [1, 2, [6, 4]]
 
 In the above example, `slice()` is used to create a shallow copy of the `originalArray`. Both `originalArray` and `shallowCopy` initially have the same values. However, when we modify the nested array `[3, 4]` by changing its first element to 6, the change is reflected in both the original array and the shallow copy. This is because the nested array is shared between them.
 
-2. Deep Copy:
+#javascript/deep-copy 
+# Deep Copy:
 A deep copy creates a completely independent copy of an object or array, including all nested objects or arrays. Each level of the object or array is recursively copied, ensuring that any changes made to the copied version do not affect the original.
 
 Here's an example of deep copy:

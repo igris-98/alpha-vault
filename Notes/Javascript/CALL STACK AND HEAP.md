@@ -1,3 +1,4 @@
+[[JAVASCRIPT]]
 In JavaScript, the stack, heap, and call stack are all important concepts related to the execution context of a program.
 
 1. **Stack**: The stack is a region of memory that is used for storing primitive values and function call information. It operates in a Last-In-First-Out (LIFO) manner. Each time a function is called, a new frame is created on top of the stack, known as a "stack frame" or "activation record." The stack frame contains the function's local variables, parameters, and the return address. When a function completes its execution, its stack frame is removed from the stack, and the control returns to the previous stack frame.

@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 Short-circuiting is a behavior in JavaScript (and many other programming languages) where logical operators, such as the `&&` (logical AND) and `||` (logical OR), don't evaluate the second operand if the outcome can be determined by the first operand alone. This behavior can be useful for conditional statements and can help optimize code execution.
 
 Here's how short-circuiting works with logical operators in JavaScript:

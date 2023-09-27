@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 In JavaScript, a set is a built-in data structure that allows you to store **unique values** of any type. It is a collection of distinct elements where each value can only occur once within the set. Sets are commonly used when you want to store a collection of items without any duplicates.
 
 Sets are also Iterables.

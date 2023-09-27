@@ -1,8 +1,10 @@
+[[JAVASCRIPT]]
 - Every Value in JS is either **OBJECT (NON-PRIMITIVE OR REFERENCE TYPE)** Or **PRIMITIVE**.
 
+#javascript/data-type/primitive
 # PRIMITIVE DATA TYPE
 - Primitive data types are simple and immutable, meaning their value cannot be changed once they created.
-- It's stored in the execution contexts in which they are declared.(call stack or stack);
+- It's stored in the **execution contexts** in which they are declared.(call stack or stack);
 - When you assign a primitive value to a variable, the variable directly holds that value.
 - There are total 7 primitive data types which are as follow :
 	1.  Number : Floating Point Numbers . It's user for Decimal & Integers.
@@ -32,6 +34,7 @@
 		```
 	7. BigInt(ES2020) : Larger integers than the Number type can hold
 
+#javascript/data-type/non-primitive  
 # NON-PRIMITIVE DATA TYPE
 - Non-primitive data types are complex and mutable, meaning their values can be changed even after they are created.
 - These are typically stored and accessed by reference. The variable holds a reference to the memory location where the actual value is stored.
@@ -41,7 +44,6 @@
 
 # JAVASCRIPT has dynamic typing. Data types are determined automatically.
 # Value has type, NOT Variable.
-
 
 example of primitive and non-primitive:
 - argument passing

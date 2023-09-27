@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NodeJS/MIDDLEWARE.md",
+                "file": "Notes/Javascript/SHORT CIRCUITING.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CSS/computed-value",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/NodeJS/MIDDLEWARE.md",
+                "file": "Notes/Javascript/SHORT CIRCUITING.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/NodeJS/MIDDLEWARE.md",
+                "file": "Notes/Javascript/SHORT CIRCUITING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/NodeJS/MIDDLEWARE.md"
+                "file": "Notes/Javascript/SHORT CIRCUITING.md"
               }
             }
           }
@@ -156,32 +156,32 @@
   },
   "active": "5d919a5a2be7a24c",
   "lastOpenFiles": [
-    "Notes/NodeJS/NODEJS.md",
-    "Notes/Angular/METADATA(A).md",
-    "Notes/Angular/COMPONENT.md",
-    "Notes/Angular/ANGULAR.md",
-    "Notes/Angular/NgModule.md",
-    "Notes/HTML/ATTRIBUTE.md",
-    "Notes/CSS/CSS.md",
-    "Notes/CSS/Applying CSS to HTML.md",
-    "Notes/CSS/CSS BOILER PLATE.md",
-    "Notes/CSS/CSS FUNCTIONS.md",
-    "Notes/CSS/CSS RESPONSIVE DESIGN.md",
-    "Notes/HTML/HTML.md",
-    "Notes/HTML/LINK.md",
-    "Notes/HTML/HyperText.md",
-    "Notes/HTML/SEMANTIC.md",
-    "Notes/HTML/HTML HEADINGS.md",
-    "Notes/HTML/ELEMENT.md",
-    "Notes/HTML/HTML LISTS.md",
-    "Notes/HTML/VOID ELEMENT.md",
-    "Notes/HTML/HTML TEXT FUNDAMENTALS.md",
+    "Notes/Javascript/JAVASCRIPT.md",
+    "Notes/Javascript/SHORT CIRCUITING.md",
+    "Notes/Javascript/MAPS.md",
+    "Notes/Javascript/SETS.md",
+    "Notes/Javascript/OPTIONAL CHAINING.md",
+    "Notes/Javascript/THIS KEYWORD JS.md",
+    "Notes/Javascript/CALL STACK AND HEAP.md",
+    "Notes/Javascript/BLOCK AND SHADOWING.md",
+    "Notes/Javascript/JS Engine.md",
+    "Notes/Javascript/ITERABLES.md",
+    "Notes/Javascript/SCOPE , SCOPE CHAIN AND LEXICAL ENVIROMENT.md",
+    "Notes/Javascript/OBJECT ORIENTED JS.md",
+    "Notes/Javascript/ARRAY JS.md",
+    "Notes/Javascript/SHALLOW COPY AND DEEP COPY.md",
+    "Notes/Javascript/WEB APIS.md",
+    "Notes/Javascript/DOM API.md",
+    "Notes/Javascript/STRICT MODE.md",
+    "Notes/Javascript/CLOSURE JS.md",
+    "Notes/Javascript/TYPEOF OPERATOR JS.md",
+    "Notes/Javascript/STATEMENT AND EXPRESSION JS.md",
+    "Notes/Javascript/FUNCTION BASIC JS.md",
+    "Notes/Javascript/UNDEFINED NULL NaN.md",
+    "Notes/Javascript/JavaScript Definition.md",
     "Notes/Javascript/Applying JavaScript to HTML.md",
-    "Notes/HTML/ANATOMY OF HTML DOCUMENT.md",
-    "Notes/HTML/METADATA(HTML).md",
-    "Notes/HTML/HTML PARAGRAPH.md",
-    "Notes/HTML/BLOCK VS INLINE ELEMENT.md",
-    "Notes/HTML/WHITESPACES IN  HTML.md",
+    "Notes/Javascript/LOOP STATEMENT JS.md",
+    "Notes/Javascript/TRUTHY AND FALSY VALUES JS.md",
     "Notes/Assests/Javascript Notes.pdf",
     "New Text Document.txt",
     "Notes/Trading/Options",

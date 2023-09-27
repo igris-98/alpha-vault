@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 In JavaScript, statements and expressions are fundamental concepts that are used to write and execute code. Let's understand each concept separately:
 
 1. Statement:

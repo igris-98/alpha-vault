@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 In JavaScript, scope refers to the accessibility and visibility of variables, functions, and objects in a particular part of your code during runtime. Understanding scope is crucial for managing variable lifetimes, avoiding naming conflicts, and creating modular and maintainable code. To explain scope, let's break it down into three related concepts: scope, lexical environment, and scope chain.
 
 1. Scope:

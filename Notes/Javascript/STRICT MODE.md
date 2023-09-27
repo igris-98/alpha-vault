@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 - Strict mode is a special mode that we can activate in javascript.
 - Which make easier for us to write a secure JS code.
 

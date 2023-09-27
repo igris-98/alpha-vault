@@ -1,3 +1,4 @@
+[[JAVASCRIPT]] [[WEB APIS]]
 #dom
 # DOM : 
 - DOM stands for Document Model Object.

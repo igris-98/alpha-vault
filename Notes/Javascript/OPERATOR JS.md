@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 In JavaScript, operators are symbols or keywords used to perform operations on variables and values. They allow you to manipulate and combine values, make comparisons, assign values, and perform various other operations. JavaScript supports several types of operators:
 1.  Arithmetic Operators
 2.  Assignment Operators

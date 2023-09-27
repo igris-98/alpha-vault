@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 In JavaScript, a string is a sequence of characters enclosed in single quotes (`'`) or double quotes (`"`). Strings are used to represent and manipulate textual data in JavaScript. Here's an example of a string:
 
 ```javascript

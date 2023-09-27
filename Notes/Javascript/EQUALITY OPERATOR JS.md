@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 In JavaScript, the `==` (loose equality) and `===` (strict equality) are comparison operators used to compare values for equality. The main difference between them lies in how they handle type coercion during the comparison.
 
 Here's an explanation of the differences between `==` and `===` with examples:

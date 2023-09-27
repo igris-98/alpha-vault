@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 Optional chaining is a feature introduced in JavaScript with the release of ECMAScript 2020 (ES2020). It provides a concise way to access properties or call methods on an object when there is a possibility of encountering `null` or `undefined` values along the chain.
 
 Prior to optional chaining, if you wanted to access a nested property or call a nested method, you would have to check each level of the chain for `null` or `undefined` values manually to avoid errors. With optional chaining, you can simplify this process.

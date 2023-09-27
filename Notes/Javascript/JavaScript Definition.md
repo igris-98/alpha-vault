@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 - JS is a HIGH-LEVEL, OBJECT-ORIENTED, MULTI-PARADIGM Programming Language.
 	- High-Level : We don't have to worry about complex stuff like memory management etc.
 	- Object-Oriented : Based on Object, for storing most kind of data.

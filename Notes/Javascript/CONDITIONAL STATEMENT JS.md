@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 In JavaScript, conditional statements are used to control the flow of a program based on certain conditions. They allow you to execute different blocks of code depending on whether a given condition evaluates to `true` or `false`. JavaScript provides several types of conditional statements:
 
 1. `if` statement:

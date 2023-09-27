@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 The `typeof` operator is a built-in operator in JavaScript that allows you to determine the data type of a given value or expression. It returns a string representing the type of the operand. Here are some examples:
 
 1. Example: Checking the type of a number

@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 Web APIs (Application Programming Interfaces) in JavaScript are sets of functionalities and methods provided by web browsers to interact with various aspects of web development. These APIs allow JavaScript code to access and control different features of web browsers and their environments. Web APIs enable developers to build dynamic and interactive web applications.
 
 Some common categories of web APIs include:

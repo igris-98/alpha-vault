@@ -1,3 +1,6 @@
+[[JAVASCRIPT]]
+#javascript/execution-context 
+
 - An execution context in JavaScript is an environment in which code is evaluated and executed.
 - It consists of a set of variables, a reference to the outer environment, and other internal components that are necessary for the execution of code.
 - It plays a crucial role in managing the execution of JavaScript code.

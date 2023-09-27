@@ -1,4 +1,4 @@
-
+[[JAVASCRIPT]]
 # OBJECT : 
 - An object is a data type that represents a collection of related data and functionality.
 - It is a fundamental concept in JavaScript, and almost everything in JavaScript is an object or can be treated as an object.

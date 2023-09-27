@@ -1,3 +1,5 @@
+[[JAVASCRIPT]]
+
 In JavaScript, a loop statement is used to repeatedly execute a block of code until a specific condition is met. It allows you to automate repetitive tasks and iterate over collections of data. There are three main types of loop statements in JavaScript: the `for` loop, the `while` loop, and the `do...while` loop. Let's explore each of them in depth:
 
 1. **The `for` loop**: The `for` loop is commonly used when you know the exact number of iterations you want to perform. It consists of three parts: the initialization, the condition, and the iteration statement.

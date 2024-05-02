@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Javascript/SHORT CIRCUITING.md",
+                "file": "Notes/Javascript/ITERABLES.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Javascript/SHORT CIRCUITING.md",
+                "file": "Notes/Javascript/ITERABLES.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Javascript/SHORT CIRCUITING.md",
+                "file": "Notes/Javascript/ITERABLES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Javascript/SHORT CIRCUITING.md"
+                "file": "Notes/Javascript/ITERABLES.md"
               }
             }
           }
@@ -156,32 +156,32 @@
   },
   "active": "5d919a5a2be7a24c",
   "lastOpenFiles": [
+    "Notes/Javascript/JavaScript Definition.md",
+    "Notes/Javascript/NAMING CONVENTION JS.md",
+    "Notes/Javascript/OPERATOR JS.md",
+    "Notes/Javascript/SCOPE , SCOPE CHAIN AND LEXICAL ENVIROMENT.md",
+    "Notes/Javascript/OBJECT ORIENTED JS.md",
+    "Notes/Javascript/JS Engine.md",
+    "Notes/Javascript/STRICT MODE.md",
+    "Notes/Javascript/VARIABLE DECLARATION.md",
     "Notes/Javascript/JAVASCRIPT.md",
+    "Notes/Javascript/CLOSURE JS.md",
+    "Notes/Javascript/THIS KEYWORD JS.md",
+    "Notes/Javascript/STATEMENT AND EXPRESSION JS.md",
+    "Notes/Javascript/TRUTHY AND FALSY VALUES JS.md",
+    "Notes/Javascript/STRING AND TEMPLATE LITERAL JS.md",
+    "Notes/HTML/ANATOMY OF HTML DOCUMENT.md",
+    "Notes/HTML/ANATOMY OF ELEMENT.md",
+    "Notes/HTML/HTML.md",
+    "Notes/NodeJS/NODEJS.md",
+    "Notes/NodeJS/MIDDLEWARE.md",
+    "Notes/Obsidian/Obsidian Basics.md",
+    "Notes/Javascript/FUNCTION BASIC JS.md",
     "Notes/Javascript/SHORT CIRCUITING.md",
     "Notes/Javascript/MAPS.md",
     "Notes/Javascript/SETS.md",
     "Notes/Javascript/OPTIONAL CHAINING.md",
-    "Notes/Javascript/THIS KEYWORD JS.md",
     "Notes/Javascript/CALL STACK AND HEAP.md",
-    "Notes/Javascript/BLOCK AND SHADOWING.md",
-    "Notes/Javascript/JS Engine.md",
-    "Notes/Javascript/ITERABLES.md",
-    "Notes/Javascript/SCOPE , SCOPE CHAIN AND LEXICAL ENVIROMENT.md",
-    "Notes/Javascript/OBJECT ORIENTED JS.md",
-    "Notes/Javascript/ARRAY JS.md",
-    "Notes/Javascript/SHALLOW COPY AND DEEP COPY.md",
-    "Notes/Javascript/WEB APIS.md",
-    "Notes/Javascript/DOM API.md",
-    "Notes/Javascript/STRICT MODE.md",
-    "Notes/Javascript/CLOSURE JS.md",
-    "Notes/Javascript/TYPEOF OPERATOR JS.md",
-    "Notes/Javascript/STATEMENT AND EXPRESSION JS.md",
-    "Notes/Javascript/FUNCTION BASIC JS.md",
-    "Notes/Javascript/UNDEFINED NULL NaN.md",
-    "Notes/Javascript/JavaScript Definition.md",
-    "Notes/Javascript/Applying JavaScript to HTML.md",
-    "Notes/Javascript/LOOP STATEMENT JS.md",
-    "Notes/Javascript/TRUTHY AND FALSY VALUES JS.md",
     "Notes/Assests/Javascript Notes.pdf",
     "New Text Document.txt",
     "Notes/Trading/Options",

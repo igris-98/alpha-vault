@@ -54,7 +54,7 @@ Let's explore the different scenarios in which the `this` keyword is used:
    obj.sayHello(); // Output: Hello, John!
    ```
 
-It's important to note that the value of `this` is determined at runtime and not at the time of function definition. It can be influenced by how a function is called, using call/apply/bind methods, or by using arrow functions to preserve the outer `this` context.
+**It's important to note that the value of `this` is determined at runtime and not at the time of function definition.** It can be influenced by how a function is called, using call/apply/bind methods, or by using arrow functions to preserve the outer `this` context.
 
 Understanding the context in which a function is called and how `this` behaves is crucial for correctly utilizing the `this` keyword in JavaScript code.
 

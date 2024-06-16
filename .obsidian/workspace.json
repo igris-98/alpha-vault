@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c68ab4a999c725a5",
+        "id": "f788887d8c14d7f2",
         "type": "tabs",
         "children": [
           {
-            "id": "5d919a5a2be7a24c",
+            "id": "8dda3c77443e2ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Javascript/ITERABLES.md",
+                "file": "Notes/NestJS/NESTJS.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#NOTE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Javascript/ITERABLES.md",
+                "file": "Notes/NestJS/NESTJS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Javascript/ITERABLES.md",
+                "file": "Notes/NestJS/NESTJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +133,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Javascript/ITERABLES.md"
+                "file": "Notes/NestJS/NESTJS.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,8 +155,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d919a5a2be7a24c",
+  "active": "8dda3c77443e2ab7",
   "lastOpenFiles": [
+    "Journal/16-06-2024.md",
+    "Notes/NestJS/NESTJS.md",
+    "English Words.md",
+    "English Speaking Course By Dear Sir.md",
+    "Notes/English/PRONOUN.md",
+    "Notes/English/NOUN.md",
+    "Notes/Javascript/JAVASCRIPT.md",
+    "Notes/English/ENGLISH.md",
+    "Notes/CPP/CPP.md",
+    "Notes/Javascript/Applying JavaScript to HTML.md",
+    "Notes/English",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Journal",
+    "Notes/CPP",
+    "2023-05-05.md",
+    "2023-04-27.md",
+    "Japanese Words.md",
+    "Notes/Trading/Options/OPTIONS.md",
+    "Notes/Obsidian/Obsidian Basics.md",
+    "Notes/NestJS",
+    "Notes/Javascript/ITERABLES.md",
     "Notes/Javascript/JavaScript Definition.md",
     "Notes/Javascript/NAMING CONVENTION JS.md",
     "Notes/Javascript/OPERATOR JS.md",
@@ -164,37 +187,15 @@
     "Notes/Javascript/JS Engine.md",
     "Notes/Javascript/STRICT MODE.md",
     "Notes/Javascript/VARIABLE DECLARATION.md",
-    "Notes/Javascript/JAVASCRIPT.md",
-    "Notes/Javascript/CLOSURE JS.md",
-    "Notes/Javascript/THIS KEYWORD JS.md",
-    "Notes/Javascript/STATEMENT AND EXPRESSION JS.md",
-    "Notes/Javascript/TRUTHY AND FALSY VALUES JS.md",
-    "Notes/Javascript/STRING AND TEMPLATE LITERAL JS.md",
-    "Notes/HTML/ANATOMY OF HTML DOCUMENT.md",
-    "Notes/HTML/ANATOMY OF ELEMENT.md",
-    "Notes/HTML/HTML.md",
-    "Notes/NodeJS/NODEJS.md",
-    "Notes/NodeJS/MIDDLEWARE.md",
-    "Notes/Obsidian/Obsidian Basics.md",
-    "Notes/Javascript/FUNCTION BASIC JS.md",
-    "Notes/Javascript/SHORT CIRCUITING.md",
-    "Notes/Javascript/MAPS.md",
-    "Notes/Javascript/SETS.md",
-    "Notes/Javascript/OPTIONAL CHAINING.md",
-    "Notes/Javascript/CALL STACK AND HEAP.md",
     "Notes/Assests/Javascript Notes.pdf",
     "New Text Document.txt",
     "Notes/Trading/Options",
-    "Untitled",
     "Notes/Trading",
     "Notes/Atomic Habits",
     "Notes/Database",
     "Notes/Assests/HTML/block-element.png",
     "Notes/Assests/HTML/inline-element.png",
-    "Notes/Assests/HTML",
     "Notes/Assests/HTML/anatomy-of-element.png",
-    "Notes/Assests/HTML",
-    "Notes/Assests/Design Guidelines.pdf",
     "Untitled.canvas"
   ]
 }

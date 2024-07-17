@@ -10,8 +10,10 @@
 		- Other programs running at the same time.
 		- Quality of the Operating System.
 - We evaluate the performance of the an algorithm in terms of **its input size**.
-	- [[Time Complexity]]
-	- [[Space Complexity]]
+	- [[TIME COMPLEXITY]]
+	- [[SPACE COMPLEXITY]]
 
 #NOTE/DSA/ALGO/ANALYSIS
 By Evaluating against the input size, the analysis is not only machine independent but the comparison is also more appropriate.
+
+[Priori Analysis and Posteriori Testing](https://www.youtube.com/watch?v=-JTq1BFBwmo&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)

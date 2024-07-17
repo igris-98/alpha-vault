@@ -1,2 +1,5 @@
-[[Algorithm]]
-[[Algorithm Analysis]]
+[[ALGORITHM]]
+[[ALGORITHM ANALYSIS]]
+[[TIME COMPLEXITY]]
+[[SPACE COMPLEXITY]]
+[[ASYMPTOTIC NOTATION]]

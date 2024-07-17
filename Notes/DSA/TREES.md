@@ -1,0 +1,9 @@
+# TYPES:
+[[BINARY TREE]]
+[[BINARY SEARCH TREE]]
+[[AVL TREE]]
+[[RED AND BLACK TREE]]
+[[Tries]]
+[[B TREE]]
+[[B+ TREE]]
+[[Segment TREE]]

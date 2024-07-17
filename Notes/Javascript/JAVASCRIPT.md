@@ -25,8 +25,8 @@
 # [[CALL STACK AND HEAP]]
 # [[THIS KEYWORD JS]]
 # [[OPTIONAL CHAINING]]
-# [[SETS]]
-# [[MAPS]]
+# [[SETS JS]]
+# [[MAPS JS]]
 
 # [[SHORT CIRCUITING]]
 

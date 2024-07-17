@@ -1,5 +1,39 @@
+# BASIC TERMINOLOGY :
 [[ALGORITHM]]
 [[ALGORITHM ANALYSIS]]
 [[TIME COMPLEXITY]]
 [[SPACE COMPLEXITY]]
 [[ASYMPTOTIC NOTATION]]
+[[RECURSION]]
+
+# ALGORITHMS : 
+[[SORT]]
+[[DIVIDE AND CONQUER]]
+[[Dynamic Programming]]
+[[Greedy Method]]
+[[BACKTRACKING - Brute Force]]
+[[DFS]]
+[[BFS]]
+[[PRIM'S ALGO]]
+[[KRUSKAL'S ALGO]]
+[[FLOYD'S ALGO]]
+
+# Data Structures :
+[[ARRAYS]]
+[[STACK]]
+[[QUEUE]]
+[[LINKED LIST]]
+[[HASH TABLE]]
+[[TREES]]
+[[GRAPHS]]
+[[SETS JS]]
+[[MAPS JS]]
+
+# MISC:
+[[SPARSE MATRIX]]
+[[BRANCH AND BOUND]]
+
+
+# Techniques: 
+[[TWO POINTER]]
+[[SILDING WINDOW]]

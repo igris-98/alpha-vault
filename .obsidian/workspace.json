@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7dfe380502569bd8",
+        "id": "ea2fd940add81ebf",
         "type": "tabs",
         "children": [
           {
-            "id": "1a95552a1285048d",
+            "id": "da31bd11ff759e1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/DSA/Algorithm.md",
+                "file": "Notes/DSA/DSA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/DSA/Algorithm.md",
+                "file": "Notes/DSA/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/DSA/Algorithm.md",
+                "file": "Notes/DSA/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/DSA/Algorithm.md"
+                "file": "Notes/DSA/DSA.md"
               }
             }
           }
@@ -156,35 +156,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a95552a1285048d",
+  "active": "da31bd11ff759e1e",
   "lastOpenFiles": [
-    "Notes/DSA/Space Complexity.md",
-    "Notes/DSA/Time Complexity.md",
+    "Notes/DSA/GRAPHS.md",
     "Notes/DSA/DSA.md",
-    "Notes/DSA/Algorithm Analysis.md",
-    "Notes/DSA/Algorithm.md",
+    "Notes/DSA/TREES.md",
+    "Notes/Javascript/SETS JS.md",
+    "Notes/Common Terminology/Untitled.md",
+    "Notes/DSA/HASH TABLE.md",
+    "Notes/DSA/ARRAYS.md",
+    "Notes/DSA/LINKED LIST.md",
+    "Notes/DSA/ALGORITHM.md",
+    "Notes/DSA/ALGORITHM ANALYSIS.md",
+    "Notes/DSA/ASYMPTOTIC NOTATION.md",
+    "Notes/DSA/TIME COMPLEXITY.md",
+    "Notes/DSA/SPACE COMPLEXITY.md",
+    "Notes/DSA/SORT.md",
+    "Notes/DSA/RECURSION GENERALIZE.md",
+    "Notes/DSA/RECURSION.md",
+    "Notes/DSA/RECURRENCE RELATION SOLUTIONS.md",
+    "Notes/DSA/RECURRENCE RELATION.md",
+    "Notes/DSA/QUEUE.md",
+    "SEO.md",
+    "DSA C++ 20-09-2023.md",
+    "Notes/DSA/Untitled.md",
+    "Notes/Obsidian/Obsidian Basics.md",
     "Notes/Angular/TEMPLATE VARIABLE.md",
     "Notes/CSS/CSS.md",
     "Notes/Common Terminology/COHESIVE.md",
-    "Notes/Angular/NgModule.md",
-    "Notes/CSS/Applying CSS to HTML.md",
-    "Notes/HTML/CHANGING ELEMENT LEVEL.md",
-    "Notes/Atomic Habits/ATOMIC HABITS.md",
-    "Notes/Angular/ANGULAR.md",
-    "Journal/25-06-2024.md",
-    "Notes/Untitled.md",
     "Notes/DSA",
-    "Notes/Javascript/JAVASCRIPT.md",
-    "Notes/Common Terminology/DOM.md",
-    "Notes/CSS/CSS UNITS.md",
-    "Notes/CSS/CSS RESPONSIVE DESIGN.md",
-    "Notes/Database/DATABASE.md",
-    "Notes/Angular/ANGULAR STARTED.md",
-    "Notes/Angular/NgModule Vs JavaScript Module.md",
-    "Notes/Angular/METADATA(A).md",
-    "Notes/Angular/INTERPOLATION.md",
-    "Notes/Angular/INSTALL ANGULAR CLI.md",
-    "Notes/Angular/DIRECTIVE.md",
     "Notes/React",
     "Notes/English",
     "Journal",

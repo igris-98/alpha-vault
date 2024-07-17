@@ -163,7 +163,7 @@ app.useGlobalPipes(
 
 ***NOTE***:  
 - we want to apply ValidationPipe to all incoming request but it doesn't mean we need to add validation rules to each and every route handler.
-- `whitelist` property ensures that **only Dto provided properties**.
+- `whitelist` property ensures that **only DTO provided properties**.
 
 ### Step 1: Create a class(Data Transfer Object) that describes the different properties that the request body should have. 
 

@@ -1,2 +1,2 @@
 # Responsive : 
-- In CSS, this refers to styles that “respond” differently, based on the size of the browser window. This entails intentional consideration for mobile, tablet, or desktop screens of any size.
+- In CSS, responsive refers to styles that “respond” differently, based on the size of the browser window. This entails intentional consideration for mobile, tablet, or desktop screens of any size.

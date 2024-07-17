@@ -17,9 +17,9 @@ In CSS, units are used to express measurements for various properties such as le
 	   - The `em` unit is relative to the **font-size** of the element itself or its parent element. 
 	   - For example, `2em` means the element's size will be twice the **font-size** of its parent or itself.
 	   - font-size of ems are derived from the **inherited** font size.
-	   - ems can be convenient when setting properties like padding, height, width, or border-radius because these will scale evenly with the element if it inherits different font sizes, or if the user changes the font settings.
+	   - ems can be convenient when setting properties like `padding`, `height`, `width`, or `border-radius` because these will scale evenly with the element if it inherits different font sizes, or if the user changes the font settings.
    - **rem**: 
-	   - The `rem` unit is similar to `em` but relative to the root element's font-size. It ensures consistent sizing across the entire document.
+	   - The `rem` unit is similar to `em` but **relative to the root element's font-size.** It ensures consistent sizing across the entire document.
 	   - Use `rem` for font-size.
    - **%**: 
 	   - The percentage unit is relative to a specific value. For example, `50%` represents half of the parent element's size or a specified value.

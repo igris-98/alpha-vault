@@ -22,7 +22,6 @@ color: black;
 	color: black;
 }
 ```
-
 3. Ruleset - Together, the selector and declaration block are called a ruleset. A ruleset also called rule.
 
 ```css
@@ -39,7 +38,7 @@ body {
 - cascade is fundamental part of how the language(CSS) works.
 
 ## Three Rules to resolve the conflicts
-1. Stylesheet Origin - Where the styles(rulesets) come from. Author(YOURs) styles are applied in conjunction with Browser's(USER Agent) Styles.
+1. Stylesheet Origin - Where the styles(rulesets) come from. Author(yours) styles are applied in conjunction with Browser's(USER Agent) Styles.
 2. Selector SPECIFICITY - Which selectors take precedence over which.
 3. Source Order - Order in which styles(ruleset) are declared in the stylesheet.
 
@@ -63,15 +62,15 @@ color: red !important;
 - If conflicting declaration can't be resolved based on their origin, the browser next tries to resolve them by looking at their **specificity**.
 - The Browser evaluates specificity in two parts.
 	1. INLINE STYLES : styles applied in inline in HTML.
-	2. SELECTOR SPECIFICITY : styles applied using a selector.
+	3. SELECTOR SPECIFICITY : styles applied using a selector.
  
 #### Inline Styles :
 - If you use an HTML **style** attribute to apply styles, the declaration are applied only to that element.
-- These are ""SCOPED"" declaration, which override any declaration applied from your stylesheet or style tag.
+- These are ""SCOPED"" declaration, which override any declaration applied from your stylesheet or `<style>` tag.
 - Inline styles have no selector because they are applied directly to the element they target.
 
 #NOTE 
-##### To Override inline declaration in your stylesheet , you'll need to add an important to the declaration, shifting it into a higher-priority origin. It's  preferable to do this from within the stylesheet. Because if the inline styles are marked up important, then nothing can override them.
+##### To Override inline declaration in your stylesheet , you'll need to add an important to the declaration, shifting it into a **higher-priority origin**. It's  preferable to do this from within the stylesheet. Because if the inline styles are marked up important, then nothing can override them.
 
 ##### An important note about importance If you’re creating a JavaScript module for distribution (such as an NPM package), I strongly urge you not to apply styles inline via JavaScript if it can be avoided. If you do, you’re forcing developers using your package to either accept your styles exactly or use !important for every property they want to change. Instead, include a stylesheet in your package. If your component needs to make style changes dynamically, it’s almost always preferable to use JavaScript to add and remove classes to the elements. Then users can use your stylesheet, and they have the option to edit it however they like without battling specificity.
 
@@ -213,7 +212,7 @@ h1 {
 - Most **shorthand properties** let you omit certain values and only specify the bits you're concerned with. It's important to know that omitted values will be **set implicitly** to their **initial** values. This can silently override styles you specify elsewhere.
 ## understanding the order of shorthand values :
 - Shorthand properties try to be lenient when it comes to the order of the values you specify.
-- padding and margin - TOP RIGHT BOTTOM LEFT (clockwise order begging at the top).
+- padding and margin - TOP RIGHT BOTTOM LEFT (TRouBLe/clockwise order begging at the top).
 - background-position , text-shadow and box-shadow : H(Right/Left) V(Top/Bottom)
 
 
@@ -228,4 +227,4 @@ h1 {
 
 #css/root-element
 # Root Element(:root) :
-- The root node is the ancestor of all other elements in the document. It has a special pseudo-class selector (:root) that you can use to target it. This is equivalent to using the type selector html with the specificity of a class rather than a tag.
+- The root node is the ancestor of all other elements in the document. It has a special pseudo-class selector (:root) that you can use to target it. **This is equivalent to using the type selector html with the specificity of a class rather than a tag.**

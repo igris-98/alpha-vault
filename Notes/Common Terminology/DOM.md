@@ -1,0 +1,4 @@
+- When browser parse the HTML document. IT creates a representation in memory of all the elements on the page. This representation is called a DOM (Document Object Model).
+- It's a tree structure, where each element is represented by a node.
+- The `<html>` element is the top-level (**root**) node. Beneath it are its child nodes like: `<head>` and `<body>`. And beneath those are their children and so on.
+	- Root node is the ancestor of all other elements in the document. It has a special pseudo-class selector `:root` that you can use to target it in CSS.

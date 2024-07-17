@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f788887d8c14d7f2",
+        "id": "7dfe380502569bd8",
         "type": "tabs",
         "children": [
           {
-            "id": "8dda3c77443e2ab7",
+            "id": "1a95552a1285048d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NestJS/NESTJS.md",
+                "file": "Notes/DSA/Algorithm.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -93,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/NestJS/NESTJS.md",
-                "collapseAll": true,
+                "file": "Notes/DSA/Algorithm.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/NestJS/NESTJS.md",
+                "file": "Notes/DSA/Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/NestJS/NESTJS.md"
+                "file": "Notes/DSA/Algorithm.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,44 +156,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dda3c77443e2ab7",
+  "active": "1a95552a1285048d",
   "lastOpenFiles": [
-    "Journal/16-06-2024.md",
-    "Notes/NestJS/NESTJS.md",
-    "English Words.md",
-    "English Speaking Course By Dear Sir.md",
-    "Notes/English/PRONOUN.md",
-    "Notes/English/NOUN.md",
+    "Notes/DSA/Space Complexity.md",
+    "Notes/DSA/Time Complexity.md",
+    "Notes/DSA/DSA.md",
+    "Notes/DSA/Algorithm Analysis.md",
+    "Notes/DSA/Algorithm.md",
+    "Notes/Angular/TEMPLATE VARIABLE.md",
+    "Notes/CSS/CSS.md",
+    "Notes/Common Terminology/COHESIVE.md",
+    "Notes/Angular/NgModule.md",
+    "Notes/CSS/Applying CSS to HTML.md",
+    "Notes/HTML/CHANGING ELEMENT LEVEL.md",
+    "Notes/Atomic Habits/ATOMIC HABITS.md",
+    "Notes/Angular/ANGULAR.md",
+    "Journal/25-06-2024.md",
+    "Notes/Untitled.md",
+    "Notes/DSA",
     "Notes/Javascript/JAVASCRIPT.md",
-    "Notes/English/ENGLISH.md",
-    "Notes/CPP/CPP.md",
-    "Notes/Javascript/Applying JavaScript to HTML.md",
+    "Notes/Common Terminology/DOM.md",
+    "Notes/CSS/CSS UNITS.md",
+    "Notes/CSS/CSS RESPONSIVE DESIGN.md",
+    "Notes/Database/DATABASE.md",
+    "Notes/Angular/ANGULAR STARTED.md",
+    "Notes/Angular/NgModule Vs JavaScript Module.md",
+    "Notes/Angular/METADATA(A).md",
+    "Notes/Angular/INTERPOLATION.md",
+    "Notes/Angular/INSTALL ANGULAR CLI.md",
+    "Notes/Angular/DIRECTIVE.md",
+    "Notes/React",
     "Notes/English",
-    "Untitled.md",
-    "Untitled 1.md",
     "Journal",
     "Notes/CPP",
-    "2023-05-05.md",
-    "2023-04-27.md",
-    "Japanese Words.md",
-    "Notes/Trading/Options/OPTIONS.md",
-    "Notes/Obsidian/Obsidian Basics.md",
     "Notes/NestJS",
-    "Notes/Javascript/ITERABLES.md",
-    "Notes/Javascript/JavaScript Definition.md",
-    "Notes/Javascript/NAMING CONVENTION JS.md",
-    "Notes/Javascript/OPERATOR JS.md",
-    "Notes/Javascript/SCOPE , SCOPE CHAIN AND LEXICAL ENVIROMENT.md",
-    "Notes/Javascript/OBJECT ORIENTED JS.md",
-    "Notes/Javascript/JS Engine.md",
-    "Notes/Javascript/STRICT MODE.md",
-    "Notes/Javascript/VARIABLE DECLARATION.md",
     "Notes/Assests/Javascript Notes.pdf",
     "New Text Document.txt",
     "Notes/Trading/Options",
     "Notes/Trading",
-    "Notes/Atomic Habits",
-    "Notes/Database",
     "Notes/Assests/HTML/block-element.png",
     "Notes/Assests/HTML/inline-element.png",
     "Notes/Assests/HTML/anatomy-of-element.png",

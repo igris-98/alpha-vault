@@ -1,3 +1,4 @@
+[[REACT]]
 # Component Instance Lifecycle :
 - First Phase is that a component instance is mounted which is also called initial render.
 	- Component Instance is rendered for the first time.

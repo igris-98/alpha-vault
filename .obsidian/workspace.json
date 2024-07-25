@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/React/REACT HOOKS.md",
+                "file": "Notes/React/REACT CUSTOM HOOKS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/React/REACT HOOKS.md",
+                "file": "Notes/React/REACT CUSTOM HOOKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/React/REACT HOOKS.md",
+                "file": "Notes/React/REACT CUSTOM HOOKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/React/REACT HOOKS.md"
+                "file": "Notes/React/REACT CUSTOM HOOKS.md"
               }
             }
           }
@@ -158,14 +158,20 @@
   },
   "active": "380966c623a1523c",
   "lastOpenFiles": [
-    "Journal/26-07-2024.md",
     "Notes/React/REACT HOOKS.md",
+    "Notes/React/REACT CUSTOM HOOKS.md",
+    "Notes/React/useRef.md",
+    "Notes/React/useState.md",
     "Notes/React/useEffect.md",
-    "Notes/React/COMPONENT INSTANCE LIFE CYCLE.md",
-    "Notes/React/REACT.md",
-    "Notes/React/REACT STRICT MODE.md",
+    "Notes/React/HOW NOT TO SELECT DOM ELEMENTS IN REACT.md",
     "Notes/React/HOW NOT TO FETCH DATA IN REACT.md",
+    "Notes/React/REACT STRICT MODE.md",
     "Notes/React/What is React?.md",
+    "Notes/React/REACT.md",
+    "Notes/React/COMPONENT INSTANCE LIFE CYCLE.md",
+    "Notes/React/JSX.md",
+    "Notes/DSA/DSA.md",
+    "Journal/26-07-2024.md",
     "Notes/DSA/RECURSION.md",
     "Notes/DSA/RECURSION GENERALIZE.md",
     "Notes/DSA/RECURRENCE RELATION SOLUTIONS.md",
@@ -178,13 +184,7 @@
     "Notes/CPP/CPP.md",
     "Notes/CPP/LEETCODE-CPP",
     "Journal/20-07-2024.md",
-    "Notes/DSA/DSA.md",
     "Notes/DSA/ASYMPTOTIC NOTATION.md",
-    "Notes/DSA/TIME COMPLEXITY.md",
-    "Notes/Javascript/DOM API.md",
-    "Notes/Javascript/CLOSURE JS.md",
-    "Notes/DSA/GRAPHS.md",
-    "Notes/DSA/TREES.md",
     "Notes/DSA",
     "Notes/React",
     "Notes/English",

@@ -11,5 +11,3 @@
 - We describe how components look like and how they work using a **declarative syntax** [[JSX]].
 - Declarative means telling React what a component should look like based on **current data/state**.
 - React is abstraction away from DOM. We never touch the DOM directly.
-
-##

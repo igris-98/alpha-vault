@@ -35,4 +35,4 @@ export class HeroListComponent implements OnInit {
 ```
 
 # [[Create a component using Angular CLI]]
-# [[Component Lifecycle]]
+# [[Notes/Angular/Component Lifecycle]]

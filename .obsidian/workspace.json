@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "87d8cb9c60cddf41",
+        "id": "2c5ae241863e36cc",
         "type": "tabs",
         "children": [
           {
-            "id": "380966c623a1523c",
+            "id": "875a0e592738b0e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/React/REACT CUSTOM HOOKS.md",
+                "file": "Notes/NodeJS/CORE MODULES.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0d557ba7d8c00877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/NodeJS/HTTP MODULE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "def8823af85180f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/NodeJS/URL MODULE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/React/REACT CUSTOM HOOKS.md",
+                "file": "Notes/NodeJS/HTTP MODULE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/React/REACT CUSTOM HOOKS.md",
+                "file": "Notes/NodeJS/HTTP MODULE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/React/REACT CUSTOM HOOKS.md"
+                "file": "Notes/NodeJS/HTTP MODULE.md"
               }
             }
           }
@@ -156,10 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "380966c623a1523c",
+  "active": "0d557ba7d8c00877",
   "lastOpenFiles": [
-    "Notes/React/REACT HOOKS.md",
+    "Notes/NodeJS/URL MODULE.md",
+    "Notes/NodeJS/HTTP MODULE.md",
+    "Notes/NodeJS/CORE MODULES.md",
+    "Notes/NodeJS/FS MODULE.md",
+    "Notes/Javascript/JAVASCRIPT.md",
+    "Notes/NodeJS/NODEJS.md",
+    "Notes/NodeJS/What is NodeJS?.md",
+    "Notes/NodeJS/WHEN TO USE NODEJS.md",
+    "Notes/NodeJS/WHY TO USE NODEJS.md",
+    "Notes/NodeJS/MIDDLEWARE.md",
     "Notes/React/REACT CUSTOM HOOKS.md",
+    "Notes/React/REACT HOOKS.md",
     "Notes/React/useRef.md",
     "Notes/React/useState.md",
     "Notes/React/useEffect.md",
@@ -174,17 +211,7 @@
     "Journal/26-07-2024.md",
     "Notes/DSA/RECURSION.md",
     "Notes/DSA/RECURSION GENERALIZE.md",
-    "Notes/DSA/RECURRENCE RELATION SOLUTIONS.md",
-    "Notes/DSA/RECURRENCE RELATION.md",
-    "Notes/DSA/HASHING.md",
-    "Notes/CPP/LEETCODE-CPP/TWO-SUM SIMILAR.md",
-    "Notes/DSA/ARRAYS.md",
-    "Notes/DSA/ALGORITHM.md",
-    "Notes/CPP/C++ STL LIBRARY.md",
-    "Notes/CPP/CPP.md",
     "Notes/CPP/LEETCODE-CPP",
-    "Journal/20-07-2024.md",
-    "Notes/DSA/ASYMPTOTIC NOTATION.md",
     "Notes/DSA",
     "Notes/React",
     "Notes/English",

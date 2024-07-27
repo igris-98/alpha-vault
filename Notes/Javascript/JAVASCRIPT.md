@@ -30,6 +30,9 @@
 
 # [[SHORT CIRCUITING]]
 
-#NOTE 
+#NOTE/JAVASCRIPT 
 ## We should use arrays for more order data. And objects for more unstructured data.
 ## Shortest JS program is empty file.
+
+## ES6 -> Promises
+## ES8 -> Async/Await

@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2c5ae241863e36cc",
+        "id": "089faf518cbd7fd3",
         "type": "tabs",
         "children": [
           {
-            "id": "875a0e592738b0e9",
+            "id": "a3ec74570680b103",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NodeJS/CORE MODULES.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0d557ba7d8c00877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/NodeJS/HTTP MODULE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "def8823af85180f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/NodeJS/URL MODULE.md",
+                "file": "Notes/DSA/SILDING WINDOW.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/NodeJS/HTTP MODULE.md",
+                "file": "Notes/DSA/SILDING WINDOW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/NodeJS/HTTP MODULE.md",
+                "file": "Notes/DSA/SILDING WINDOW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/NodeJS/HTTP MODULE.md"
+                "file": "Notes/DSA/SILDING WINDOW.md"
               }
             }
           }
@@ -183,34 +156,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d557ba7d8c00877",
+  "active": "a3ec74570680b103",
   "lastOpenFiles": [
-    "Notes/NodeJS/URL MODULE.md",
-    "Notes/NodeJS/HTTP MODULE.md",
-    "Notes/NodeJS/CORE MODULES.md",
-    "Notes/NodeJS/FS MODULE.md",
-    "Notes/Javascript/JAVASCRIPT.md",
-    "Notes/NodeJS/NODEJS.md",
-    "Notes/NodeJS/What is NodeJS?.md",
-    "Notes/NodeJS/WHEN TO USE NODEJS.md",
-    "Notes/NodeJS/WHY TO USE NODEJS.md",
-    "Notes/NodeJS/MIDDLEWARE.md",
-    "Notes/React/REACT CUSTOM HOOKS.md",
-    "Notes/React/REACT HOOKS.md",
-    "Notes/React/useRef.md",
-    "Notes/React/useState.md",
-    "Notes/React/useEffect.md",
-    "Notes/React/HOW NOT TO SELECT DOM ELEMENTS IN REACT.md",
-    "Notes/React/HOW NOT TO FETCH DATA IN REACT.md",
-    "Notes/React/REACT STRICT MODE.md",
-    "Notes/React/What is React?.md",
-    "Notes/React/REACT.md",
-    "Notes/React/COMPONENT INSTANCE LIFE CYCLE.md",
-    "Notes/React/JSX.md",
+    "Notes/CPP/C++ STL LIBRARY.md",
+    "Notes/DSA/SILDING WINDOW.md",
     "Notes/DSA/DSA.md",
-    "Journal/26-07-2024.md",
-    "Notes/DSA/RECURSION.md",
-    "Notes/DSA/RECURSION GENERALIZE.md",
+    "DSA C++ 20-09-2023.md",
+    "Notes/DSA/BIT MANIPULATION.md",
+    "Notes/DSA/BIT OPERATORS.md",
+    "Notes/DSA/CHECK Kth BIT IS SET OR NOT.md",
+    "Notes/DSA/REMOVE THE LAST SET BIT (RIGHT MOST).md",
+    "Notes/DSA/TOGGLE Kth BIT.md",
+    "Notes/DSA/CLEAR Kth BIT.md",
+    "Notes/DSA/SET Kth BIT.md",
+    "Notes/DSA/SWAP TWO NUMBERS USING BIT OPERATOR.md",
+    "Notes/DSA/2's COMPLEMENT.md",
+    "Notes/DSA/1's COMPLEMENT.md",
+    "Notes/DSA/BINARY CONVERSION.md",
+    "Notes/DSA/MERGE SORT.md",
+    "Notes/DSA/SORT.md",
+    "Notes/DSA/GREEDY METHOD.md",
+    "React Interview Question Mostly Asked.md",
+    "Notes/DSA/LINKED LIST.md",
+    "Notes/HTML/TAG.md",
+    "Notes/HTML/HTML.md",
+    "Software Engineer Advice.md",
+    "Notes/DOCKER/Untitled.md",
+    "Notes/DOCKER/DOCKER.md",
+    "Notes/DSA/Untitled.md",
+    "Notes/DOCKER",
     "Notes/CPP/LEETCODE-CPP",
     "Notes/DSA",
     "Notes/React",
@@ -220,7 +194,6 @@
     "Notes/NestJS",
     "Notes/Assests/Javascript Notes.pdf",
     "New Text Document.txt",
-    "Notes/Trading/Options",
     "Notes/Assests/HTML/block-element.png",
     "Notes/Assests/HTML/inline-element.png",
     "Notes/Assests/HTML/anatomy-of-element.png",

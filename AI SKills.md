@@ -1,0 +1,19 @@
+- Prompt Engineering
+- AI Software Development - Building Custom Softwares
+	- Learn AI Coding using by
+		-  creating a course
+		- find a problem
+		- build the solution
+- AI Design
+	- Generative photos
+	- Ai photo editing
+	- AI web design
+- AI Video Editing
+- AI Writing
+- AI Content Marketing
+- AI Automations
+- AI DATA ANALYSIS
+	- Data clean up
+	- Data Enrichment
+	- Data insight extraction
+- NO CODE AI AGENT DEVELOPMENT
